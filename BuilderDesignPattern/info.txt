@@ -1,0 +1,26 @@
+
+
+When this build pattern is used : 
+
+lets there are fields in the class , some of them are optional, when ever the constructor is creating, we have some optional which is of our choice,
+ use or not, and also compilation error occus whem we have same constructor with same numbers of arguments when we use required field 
+
+
+Buidler pattren is to build step by step and  finally build the object ;
+
+lets take an example constructing the house;
+
+first step is add roof, 
+next step is add walls,
+next step is doors,
+next step is interior
+
+finally build 
+
+
+
+
+Example : 
+
+
+stringBuilder -> gives always a stringBuilder method -> after completion of all opertaions when ever we use toSting it gives actual string object 
